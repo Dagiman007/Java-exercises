@@ -1,0 +1,6 @@
+123 John Doe 34.55 
+9 Jane Doe 234.89 
+101 James Bond 700.00 
+432 Shawn Carter 200030.00 
+444 Da quan 0.00 
+231 La quish -90.00 
